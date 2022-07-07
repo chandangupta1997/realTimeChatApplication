@@ -1,0 +1,33 @@
+{
+  "name": "realtimechatapplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandangupta1997/realTimeChatApplication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandangupta1997/realTimeChatApplication/issues"
+  },
+  "homepage": "https://github.com/chandangupta1997/realTimeChatApplication#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "it": "^1.1.1",
+    "nodemon": "^2.0.19",
+    "socket.io": "^4.5.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "install": "^0.13.0",
+    "npm": "^8.13.2"
+  }
+}

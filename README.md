@@ -10,6 +10,3 @@ So, it is just like a real-time web-page opened in multiple clients’ browser w
 1. Knowledge of — HTML, CSS, JavaScript, JQuery, and Node.js.
 2. Node.js should be installed on your local machine.
 
-## Final look of the project in action (youtube link)
-
-[Real-Time chat App.](https://youtu.be/1iQGoenm0ug)
